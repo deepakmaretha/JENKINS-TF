@@ -13,11 +13,6 @@ output "key_name" {
 
 }
 
-output "security_groups" {
-  value = "To access the Server and Run API Port 80,8080,443,22 are opened"
-
-}
-
 output "public_ip" {
   value = aws_instance.Web.public_ip
 
