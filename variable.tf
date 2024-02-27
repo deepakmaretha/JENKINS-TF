@@ -3,10 +3,10 @@ variable "region" {
 }
 
 variable "access_key" {
-    default = "ACCESS_KEY_HERE"
+    default = "AKIA344Z2RINHFVS7ZR3"
 }
 
 variable "secret_key" {
-    default = "SECRET_KEY_HERE"
+    default = "TS94vCkN6W5FYdhHbVNE36wYgBEm16obol/IIWc6"
 }
 
