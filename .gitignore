@@ -8,6 +8,8 @@
 *.tfstate
 *.tfstate.*
 
+# Environment Credentials
+credentials.tfvars
 # Crash log files
 *.log
 
